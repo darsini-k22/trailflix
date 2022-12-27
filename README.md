@@ -1,4 +1,7 @@
 # trailflix
+# Web application preview
+
+
 ![image](https://user-images.githubusercontent.com/75623259/209701126-d2b16dc5-8dcd-4176-bd7a-e24d2afc4a22.png)
 
 ![image](https://user-images.githubusercontent.com/75623259/209701160-ee0cf01b-e137-4994-8739-62d33ca8538a.png)
