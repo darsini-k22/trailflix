@@ -1,0 +1,98 @@
+.m-5-auto {
+    margin: 5rem auto
+}
+
+.h2 {
+    text-align: center;
+    font-family:cursive;
+    color: black;
+  }
+
+.total{
+  top: 50%;
+  text-align: center;
+  height: auto;
+  
+  /*background: url(../../../images/bg.png);*/
+  /*position: fixed;*/ 
+  max-width: 100%;
+  min-width: 100%;
+  background-position: center; 
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;*/
+  background-size: cover;
+  background-repeat: no-repeat; 
+  
+}
+
+.signinimage{
+     top: 50%;
+     left: 100px;
+}
+
+
+.form1{
+     background: whitesmoke; 
+    /* border: 1px solid #ddd;
+    border-radius: 2px;
+    margin: 2rem 0 1rem 0 */
+    width: 405px;
+    height: 470px;
+    padding: 2rem;
+    display: inline-block;
+    text-align: center; 
+    background-color: 'rgba(52, 52, 52, 0.8)';
+    border-radius: 14px;
+    opacity: 0.9;
+    -webkit-box-shadow: 1px 1px 24px -4px rgba(0,0,0,0.74); 
+    box-shadow: 1px 1px 24px -4px rgba(0,0,0,0.74);
+  }
+  
+.form label {
+    float: left;
+    width: 100%;
+    font-size: .9rem;
+    margin: 0;
+    padding: 0
+  }
+  
+.right-label {
+    float: right;
+    cursor: pointer
+  }
+  
+.get_input {
+    width: 100%;
+    padding: .3rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    border: none;
+    border-bottom: 1px solid #000;
+    background: transparent;
+    outline: none;
+    height: 30px;
+  }
+  
+.sub_btn {
+    display: inline-block;
+    width: 50%;
+    padding: .3rem;
+    border: none;
+    background: #222;
+    color: #fff;
+    border-radius: 25px;
+  }
+  
+.sub_btn:hover {
+    background: rgb(46, 44, 44);
+    transition: all .5s
+  }
+  
+.footer1{
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    left: 20px;
+}
