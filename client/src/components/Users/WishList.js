@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 
-import { FaHeartOutline } from "react-icons/fa";
+// import { FaHeartOutline } from "react-icons/fa";
 import { useState } from "react";
 import { useEffect } from "react";
 import MovieList from "../../api/MovieList";

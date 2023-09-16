@@ -47,7 +47,7 @@ app.get("/get-movie-list/:id", async (req, res) => {
     }
   } catch (err) {
     return res.status(404).json({ message: "Error" });
-    console.log(err.message);
+    // console.log(err.message);
   }
 });
 
